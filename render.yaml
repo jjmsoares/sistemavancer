@@ -15,6 +15,3 @@ services:
         value: admin
       - key: DB_ROOT_PASSWORD
         value: root
-    disk:
-      name: sites
-      mountPath: /home/frappe/frappe-bench/sites
