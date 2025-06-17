@@ -1,0 +1,4 @@
+SITE_NAME=site1.local
+DB_ROOT_PASSWORD=root
+ADMIN_PASSWORD=admin
+INSTALL_APPS=erpnext
